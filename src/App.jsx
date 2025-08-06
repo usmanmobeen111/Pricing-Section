@@ -4,7 +4,7 @@ import PricingSection from './components/PricingSection'
 
 const App = () => {
   return (
-    <div>
+    <div> 
       <PricingSection/>
       <Footer/>
     </div>
