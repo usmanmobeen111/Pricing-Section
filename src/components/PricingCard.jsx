@@ -11,7 +11,7 @@ const PricingCard = ({ name, price, frequency, features, cta, isPopular}) => {
                 <li key={index}>{feature}</li>
             ))}
         </ul>
-        <button className='bg-gradient-to-r from-primary/85 to-secondary/85 hover:bg-gradient-to-r hover:from-primary hover:to-secondary text-white py-2 px-4 rounded w-full transition duration-300 cursor-pointer'>{cta}</button>
+        <button className='bg-gradient-to-r from-primary/85 my-2 to-secondary/85 hover:bg-gradient-to-r hover:from-primary hover:to-secondary text-white py-2 px-4 rounded w-full transition duration-300 cursor-pointer'>{cta}</button>
 
       </div>
     </div>
