@@ -4,7 +4,7 @@ import { pricingPlans } from '../data/prices.js'
 
 const PricingSection = () => {
   return (
-    <div className='bg-gradient-to-br from-primary/20 to-secondary/20 h-screen flex items-center justify-center flex-wrap'>
+    <div className='bg-gradient-to-br from-primary/20 to-secondary/20 p-10 flex items-center justify-center flex-wrap'>
       {pricingPlans.map(plan=>(
         <PricingCard key={plan.id} {...plan} />
       ))}
