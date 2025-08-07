@@ -1,12 +1,31 @@
-# React + Vite
+# 💸 Elegant Pricing Section UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive, and animated pricing section built with love using **Tailwind CSS** and **Framer Motion**. Designed to deliver clarity, confidence, and conversion — the three Cs of a killer pricing page.
 
-Currently, two official plugins are available:
+## 🌈 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fully responsive layout (Mobile ↔ Desktop)
+- Subtle hover effects and animations using Framer Motion
+- Gradient backgrounds with elegant color transitions
+- Clear call-to-action buttons
+- Modular and reusable component structure
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+
+
+## 🎨 Color Palette
+
+- `Primary`: `#ee0979`
+- `Secondary`: `#ff6a00`
+
+
+## 🚀 How to Use
+
+1. Clone the repo
+2. Install dependencies:
+   ```bash
+   npm install
